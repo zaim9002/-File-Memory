@@ -1,0 +1,6 @@
+{
+  "name": "RAM Cleaner",
+  "description": "تطبيق احترافي لإدارة وتنظيف الذاكرة ومراقبة RAM والكاش في Android بأمان وموثوقية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
